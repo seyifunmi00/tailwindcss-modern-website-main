@@ -1,0 +1,81 @@
+<!--~~~~~~~~~~ HEADER ~~~~~~~~~~-->
+
+
+
+
+<!--~~~~~~~~~~ HOME ~~~~~~~~~~-->
+
+
+<!--~~~~~~~~~~ FEATURES ~~~~~~~~~~-->
+
+
+<!--~~~~~~~~~~ SAVING MONEY ~~~~~~~~~~-->
+
+
+<!--~~~~~~~~~~ HOW-IT-WORKS ~~~~~~~~~~-->
+
+
+<!--~~~~~~~~~~ TESTIMONIAL ~~~~~~~~~~-->
+
+
+<!--~~~~~~~~~~ PRICING ~~~~~~~~~~-->
+
+
+<!--~~~~~~~~~~ BLOG ~~~~~~~~~~-->
+
+
+
+<!--~~~~~~~~~~ DOWNLOAD-APP ~~~~~~~~~~-->
+title - 
+
+Paragraph - 
+
+<!--~~~~~~~~~~ CONTACT ~~~~~~~~~~-->
+h4 - Have A Questation
+
+title - Get In Touch
+
+placeholder="Name"
+
+placeholder="Email"
+
+placeholder="Phone"
+
+placeholder="Company"
+
+placeholder="Message"
+
+button - Send Message
+
+<!--~~~~~~~~~~ FOOTER ~~~~~~~~~~-->
+h4 - About App
+
+title - 
+
+p - Follow Us
+
+<i class="fa-brands fa-facebook-f"></i>
+
+<i class="fa-brands fa-twitter"></i>
+
+<i class="fa-brands fa-youtube"></i>
+
+<i class="fa-brands fa-instagram"></i>
+
+h4 - Quick Links
+
+h4 - Help
+
+
+
+h4 - Newsletter
+
+p - 
+
+placeholder="Enter Your Email"
+
+
+
+p - 
+
+
